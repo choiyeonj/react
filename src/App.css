@@ -1,0 +1,93 @@
+img {
+    display: block;
+    width: 100%;
+}
+
+button {
+    border: none;
+    background-color: #fafafa;
+    padding: 5px 10px;
+}
+
+button:hover {
+    background-color: #222;
+    color: #fff;
+    transition: all 0.3s;
+}
+
+.App .logo {
+    cursor: pointer;
+    display: block;
+    width: 295px;
+}
+
+.App {
+    text-align: center;
+}
+
+.App .nav_bar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+}
+
+.App .nav_bar:hover {
+    background-color: #444;
+}
+
+.App .main_visual {
+    height: 100%;
+}
+
+.App .container {
+    gap: 30px;
+}
+
+.App .container .nav-link {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.App .container .nav-link:hover {
+    color: #fdd000;
+    transition: all 0.3s;
+}
+
+.App .container .nav_btn {
+    border-radius: 50%;
+    padding: 5px;
+}
+
+.App .container .nav_btn:hover {
+    background-color: #fdd000;
+    transition: all 0.3s;
+}
+
+.col a {
+    overflow: hidden;
+}
+
+.col a img:hover {
+    transform: scale(1.1);
+    transition: all 0.3s ease;
+}
+
+.col a .sc-dBwcjI p:last-child {
+    margin-bottom: 0 !important;
+}
+
+.col > button {
+    border: none;
+    background-color: #f8f8f8;
+    padding: 10px;
+    width: 280px;
+    margin-bottom: 25px !important;
+    box-shadow: rgba(0, 0, 0, 0.1) 3px 3px 14px;
+}
+
+.col > button:hover {
+    background-color: #444;
+    color: #fdd000;
+    transition: all 0.3s;
+}

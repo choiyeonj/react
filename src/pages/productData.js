@@ -1,0 +1,88 @@
+const data = [
+    {
+        id: 'best-01',
+        image: process.env.PUBLIC_URL + '/images/best_01.jpg',
+        title: '고흥 유자망고 스무디',
+        desc: 'Yuzu&MAngo Smoothie',
+        price: '4,800원',
+    },
+    {
+        id: 'best-02',
+        image: process.env.PUBLIC_URL + '/images/best_02.jpg',
+        title: '고흥 유자 하이볼에이드',
+        desc: 'Yuzu Highball-Ade',
+        price: '4,800원',
+    },
+    {
+        id: 'best-03',
+        image: process.env.PUBLIC_URL + '/images/best_03.jpg',
+        title: '나주 플럼코트 스무디',
+        desc: 'Plumcot Smoothie',
+        price: '3,900원',
+    },
+    {
+        id: 'best-04',
+        image: process.env.PUBLIC_URL + '/images/best_04.jpg',
+        title: '보성 녹차레몬 콤부에이드',
+        desc: 'Green Tea Lemon Kombucha-Ade',
+        price: '4,000원',
+    },
+    {
+        id: 'best-05',
+        image: process.env.PUBLIC_URL + '/images/best_05.png',
+        title: '코코넛 커피 스무디',
+        desc: 'Coconut Coffee Smoothie',
+        price: '3,900원',
+    },
+    {
+        id: 'best-06',
+        image: process.env.PUBLIC_URL + '/images/best_06.png',
+        title: '수박 화채 스무디',
+        desc: 'Watermelon Punch Smoothie',
+        price: '3,900원',
+    },
+    {
+        id: 'best-07',
+        image: process.env.PUBLIC_URL + '/images/best_07.png',
+        title: '수박 주스',
+        desc: 'Watermelon Juice',
+        price: '4,000원',
+    },
+    {
+        id: 'best-08',
+        image: process.env.PUBLIC_URL + '/images/best_08.jpg',
+        title: '레드오렌지자몽주스',
+        desc: 'Red Orange-Grapefruit Juice',
+        price: '4,000원',
+    },
+    {
+        id: 'best-09',
+        image: process.env.PUBLIC_URL + '/images/best_09.jpg',
+        title: '샤인머스캣그린주스',
+        desc: 'Shine Muscat-Kale Juice',
+        price: '4,000원',
+    },
+    {
+        id: 'best-10',
+        image: process.env.PUBLIC_URL + '/images/best_10.jpg',
+        title: '딸기주스',
+        desc: 'Strawberry Juice',
+        price: '4,000원',
+    },
+    {
+        id: 'best-11',
+        image: process.env.PUBLIC_URL + '/images/best_11.jpg',
+        title: '딸기바나나주스',
+        desc: 'Strawberry-Banana Juice',
+        price: '4,000원',
+    },
+    {
+        id: 'best-12',
+        image: process.env.PUBLIC_URL + '/images/best_12.jpg',
+        title: '디카페인 에스프레소',
+        desc: 'Decaf Espresso',
+        price: '3,500원',
+    },
+];
+
+export default data;
