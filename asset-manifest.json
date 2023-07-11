@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/choiyeonj/react.git/static/css/main.c3c046ae.css",
+    "main.js": "/choiyeonj/react.git/static/js/main.760faaed.js",
+    "static/js/787.e1c3cba5.chunk.js": "/choiyeonj/react.git/static/js/787.e1c3cba5.chunk.js",
+    "index.html": "/choiyeonj/react.git/index.html",
+    "main.c3c046ae.css.map": "/choiyeonj/react.git/static/css/main.c3c046ae.css.map",
+    "main.760faaed.js.map": "/choiyeonj/react.git/static/js/main.760faaed.js.map",
+    "787.e1c3cba5.chunk.js.map": "/choiyeonj/react.git/static/js/787.e1c3cba5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3c046ae.css",
+    "static/js/main.760faaed.js"
+  ]
+}
